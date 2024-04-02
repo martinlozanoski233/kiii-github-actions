@@ -48,4 +48,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: user/kiii-jenkins2:latest
+          tags: martinlozanoski233/kiii-demo-01:latest
